@@ -156,15 +156,9 @@ flutter build apk --release
 
 ## 📸 لقطات الشاشة
 
-<!-- أضف الصور هنا --><img width="1080" height="2400" alt="home" src="https://github.com/user-attachments/assets/afd9647d-17ff-4bb0-8716-b116cdcbecb4" />
-<img width="1080" height="2400" alt="home" src="https://github.com/user-attachments/assets/4845e4d8-2589-4dc5-aa0c-86c73d00cde0" />
-
-
-<img width="1080" height="2400" alt="settings" src="https://github.com/user-attachments/assets/f7c849cf-b92f-4d90-8c9e-a9bfe575fba1" />
 <img width="1080" height="2400" alt="deatails" src="https://github.com/user-attachments/assets/05c39485-aa7e-467c-a294-f1b831e6efe4" />
 <img width="1080" height="2400" alt="reports" src="https://github.com/user-attachments/assets/05a62e57-0747-4546-9283-2e5f616665fd" />
 <img width="1080" height="2400" alt="prodact" src="https://github.com/user-attachments/assets/84c46b99-91f1-4adb-ac4f-4e3a9fbe9baa" />
-<img width="1080" height="2400" alt="addprod" src="https://github.com/user-attachments/assets/09be792f-933a-4432-b1d1-86b1ea1bc7f3" />
 <img width="1080" height="2400" alt="shops" src="https://github.com/user-attachments/assets/d55012ae-0fb7-4e71-a3aa-3a4ed9e638f8" />
 <img width="1080" height="2400" alt="mainhome" src="https://github.com/user-attachments/assets/3c021a55-e01b-4049-afc0-eefb519aa604" />
 
